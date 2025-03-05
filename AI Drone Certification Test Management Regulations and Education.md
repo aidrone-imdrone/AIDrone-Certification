@@ -1,4 +1,4 @@
-# AI Drone Certification Management Regulations
+# AIDrone Certification Management Regulations
 
 ## Chapter 1: General Provisions
 
